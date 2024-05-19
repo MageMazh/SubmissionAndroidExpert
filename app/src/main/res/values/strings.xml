@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="toolbar_icon">Toolbar Icon</string>
+    <string name="searchbar_hint">which film you want to search for</string>
+    <string name="welcome">Welcome to the MovieApp! Explore all the movies you desire with ease.</string>
+    <string name="favorite_icon">favorite icon</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="no_search_results">no search results</string>
+    <string name="vote_average">Vote Average: %1$f</string>
+    <string name="release_date">Release Date: %1$s</string>
+</resources>
